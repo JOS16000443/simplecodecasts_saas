@@ -1,7 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+JOS16000443 Project Application
+Subscription Based Web Application
+
+https://jos16000443.me/
 
 Things you may want to cover:
 
